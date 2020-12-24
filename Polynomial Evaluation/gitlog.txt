@@ -1,0 +1,71 @@
+commit a24557ce8fc6cd786dbeae110fe78801390b1158
+Author: beyzayldrm <beyza.yildirim0@gmail.com>
+Date:   Wed Apr 15 22:17:22 2020 -0400
+
+    finished up the project
+
+commit 0ff976b0e20672a4051d7e4cd36d705db1c6264e
+Author: beyzayldrm <beyza.yildirim0@gmail.com>
+Date:   Wed Apr 15 16:00:07 2020 -0400
+
+    update
+
+commit 174d58036b21f61a5635489b6c25c64120e4c729
+Author: beyzayldrm <beyza.yildirim0@gmail.com>
+Date:   Tue Apr 14 23:36:58 2020 -0400
+
+    updated
+
+commit deb1212c01e6f57932d59a4ddf3846b4ee48bb8d
+Author: beyzayldrm <beyza.yildirim0@gmail.com>
+Date:   Tue Apr 14 22:42:15 2020 -0400
+
+    all files updated, segmentation errors solved
+
+commit d2ad2c359fffbd8fe044c56f013f534ffe89e320
+Author: beyzayldrm <beyza.yildirim0@gmail.com>
+Date:   Tue Apr 14 20:32:16 2020 -0400
+
+    poly.c updated
+
+commit 6d23b189601a98d94399e46fd294fb9fc2cb94ca
+Author: beyzayldrm <beyza.yildirim0@gmail.com>
+Date:   Tue Apr 14 20:30:10 2020 -0400
+
+    poly.c updated
+
+commit e0028780ed0af3cec8f4def24b8ae84eb875bb30
+Author: beyzayldrm <beyza.yildirim0@gmail.com>
+Date:   Tue Apr 14 17:36:15 2020 -0400
+
+    updated all files to have make work
+
+commit 09b0ef2c12da09ed6157eb52c4fee94e02ace008
+Author: beyzayldrm <beyza.yildirim0@gmail.com>
+Date:   Tue Apr 14 17:09:29 2020 -0400
+
+    polyapp updated, makefile created
+
+commit 07fc30d5870e7e0b9b24f5806b720fbfdb8277fe
+Author: beyzayldrm <beyza.yildirim0@gmail.com>
+Date:   Tue Apr 14 16:20:42 2020 -0400
+
+    evaluatePolyTerm updated
+
+commit 33b8d8812d5885822dd8a7a81165c79b28a707b3
+Author: beyzayldrm <beyza.yildirim0@gmail.com>
+Date:   Tue Apr 14 15:06:10 2020 -0400
+
+    addPolyTerm function updated
+
+commit 5f8e428c5a3ea67cb63350bc71eb90186538f6f0
+Author: beyzayldrm <beyza.yildirim0@gmail.com>
+Date:   Tue Apr 14 12:56:39 2020 -0400
+
+    wrote parse and powi functions for utils.c
+
+commit 6e7082baffcb7c98687d0dee933e2aae262b553e
+Author: beyzayldrm <beyza.yildirim0@gmail.com>
+Date:   Mon Apr 13 19:05:04 2020 -0400
+
+    created c files
